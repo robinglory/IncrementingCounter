@@ -22,6 +22,7 @@ body{
    text-align: center;
    justify-content: center;
    margin: 30px 50px;
+
 }
 
 .counter{
@@ -34,4 +35,11 @@ body{
    body{
       flex-direction: column;
    }
+   .counter-container{
+      border-bottom: 3px solid #fff;
+      border-left: 4px dotted #fff;
+      border-right: 4px dotted #fff;
+      padding: 20px;
+   }
+
 }
